@@ -1,4 +1,4 @@
-h1. Examples of JadeMinds Blog
+ h1. Examples of JadeMinds Blog
 
 This github repository contains source code examples of the corresponding blog "JadeMind":http://www.jademind.com/blog.
 
